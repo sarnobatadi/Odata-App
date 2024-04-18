@@ -1,0 +1,18 @@
+fileignoreconfig:
+- filename: obj/Debug/net8.0/OdataApp.csproj.CoreCompileInputs.cache
+  checksum: 77dd82dedc385f819a3e1ceecb22ff5117a7fe44b06740f62d60df920f517d7d
+- filename: obj/Debug/net8.0/OdataApp.AssemblyInfoInputs.cache
+  checksum: ded124d4f18fafda934650aa818edecf736cca871e7799e558a20fb05c676f56
+- filename: obj/Debug/net8.0/OdataApp.genruntimeconfig.cache
+  checksum: 98e1cc5383938b028386c5e2536bbffbceda8e9735e9dc79d18e1280d78d9879
+- filename: obj/Debug/net8.0/staticwebassets.build.json
+  checksum: 250c7ee405e6a82b546c7dd233b6dae4ee0c5fac2b448a24b36d7832545d8507
+- filename: obj/project.nuget.cache
+  checksum: bfff2dd09bdd306912887439a5d1b42600b3753ee0d544bc0aa6d98aac8bec6d
+- filename: bin/Debug/net8.0/OdataApp.deps.json
+  checksum: 8d6ea6903a6e9bb1e6b0593b0d251a9caefa8f42758d53f2bf79abf6fe8e73fc
+- filename: obj/project.assets.json
+  checksum: 9203f9060453021ec9a94615829facd666c4a0302b5eb9de2daef27564497fe1
+- filename: Data/DataContextEF.cs
+  checksum: 725b8fc26beb2d13e83f551185e85b8d2f1527de852389655d042af1286c1bcc
+version: ""
