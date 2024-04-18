@@ -16,3 +16,16 @@ fileignoreconfig:
 - filename: Data/DataContextEF.cs
   checksum: 725b8fc26beb2d13e83f551185e85b8d2f1527de852389655d042af1286c1bcc
 version: ""
+
+fileignoreconfig:
+- filename: obj/Debug/net8.0/OdataApp.sourcelink.json
+  checksum: e93e22af872e6eedbeff2674b48a3f5ebca83ccaed73dd111490edcb0eb4f36c
+- filename: obj/Debug/net8.0/OdataApp.AssemblyInfo.cs
+  checksum: 444f3bbc7220d22fe8bd9e031f51b3d34a54a6aa13af47888d09c025984ed035
+- filename: obj/Debug/net8.0/OdataApp.AssemblyInfoInputs.cache
+  checksum: 39764d7f794c888f87d7f5aad3e823f64321c8012df23e87d0ace3a747034d4f
+- filename: Controllers/UserController.cs
+  checksum: 82873c46a6cfe46af7e174c840746e6a299d9e76ddd0c4c8eb897bb4cda43b3e
+- filename: Repositories/UserRepository.cs
+  checksum: c897dd5e4d0e63ba9062226481ff94be9ad44dba9333415c90aa28b11e8b043e
+version: ""
